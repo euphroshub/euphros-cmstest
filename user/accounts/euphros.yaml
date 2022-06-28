@@ -1,0 +1,11 @@
+state: enabled
+email: euphros@protonmail.com
+fullname: euphros
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$BaTVT8eYRUH2jYn2zv83BOsufbUhDoSpFgpxlB6MY6qEZ0hR9uYZ6

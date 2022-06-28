@@ -1,0 +1,12 @@
+.sass-cache
+composer.lock
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
